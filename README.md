@@ -44,7 +44,7 @@ Após treinar os modelos, avaliamos o desempenho de cada um deles usando métric
 
 1. Clone este repositório em sua máquina local usando o comando:
 ```
-https://github.com/seu_usuario/HousePrediction.git
+git clone "http link"
 ```
 
 2. Certifique-se de ter as bibliotecas necessárias instaladas. Caso não as tenha, você pode instalá-las usando o comando:
